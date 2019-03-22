@@ -1,0 +1,12 @@
+{
+    "link": "figomachine Link",
+    "listing": {
+        "title": "figomachine Listing"
+    },
+    "report": {
+        "title": "figomachine Report"
+    },
+    "widget": {
+        "title": "figomachine Widget"
+    }
+}
